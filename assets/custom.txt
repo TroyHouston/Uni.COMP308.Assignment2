@@ -1,0 +1,13 @@
+root 90 0 0
+lowerneck 10 0 0
+lhumerus 20 -20 0
+rhumerus 20 20 0
+lradius 65 0 0
+rradius 65 0 0
+lfemur -75 10 0
+ltibia 90 0 0
+rfemur -75 -10 0
+rtibia 90 0 0
+rfoot 30 0 10
+lfoot 30 0 10
+
